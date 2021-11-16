@@ -1,4 +1,4 @@
-Date,HH:MM,Dry Bulb Temperature {C},Month
+Date,HH:MM,Dry T_out,Month
 1/1/2000,1:00,-0.6,1
 1/1/2000,2:00,-1.1,1
 1/1/2000,3:00,0,1
